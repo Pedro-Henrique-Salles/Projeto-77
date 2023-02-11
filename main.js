@@ -8,15 +8,9 @@
         var b = 5;
         var add = a + b ;
         console.log(add);
-        var c = 7;
-        var d = 3;
-        var add = c + d ;
-        console.log(add);
-        var e = 10;
-        var f = 20;
-        var add = e + f ;
-        console.log(add);
-        var g = 40;
-        var h = 60;
-        var add = g + h ;
-        console.log(add);
+        var sub = a - b ;
+        console.log(sub)
+        var mult = a * b ;
+        console.log(mult)
+        var div = a / b ;
+        console.log(div)
